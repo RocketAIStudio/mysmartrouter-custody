@@ -1,1 +1,1 @@
-{"status":"UNINITIALIZED","note":"Replaced by the signed genesis envelope from the .org authority via CAS."}
+{"payload":{"version":1,"scope":"68cdfd1e96555d109bfed9db867a9665c41609fb2f4af85f47838f76673bb265","sequence":0,"head_sha256":"be40b5116af522ef28792dd29efb079d8ff12acc7e1d4c109959375b70ffb670","epoch":1,"outcome_barrier":"7f6527f5ba9c7f6c7e3bc080b297fdbb4f1dd00a9e2c783299833135d2d98ee4","gate":"OPEN"},"signature_base64":"PPufZYbWDjXCDnJyIsa/HqCMFEMLbOzSGOXqdc52OU8OO1hBQ/7IavQWcstGxEvXzkI/RXJJ0AH9Ma1BbbKGCQ=="}
